@@ -2,6 +2,6 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,worker,aws,docker,kubernetes&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,workers,aws,kubernetes,docker,rust,go,nodejs&theme=dark" />
   </a>
 </p>
